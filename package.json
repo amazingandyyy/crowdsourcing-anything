@@ -1,6 +1,6 @@
 {
-  "name": "mern",
-  "version": "2.1.1",
+  "name": "crowdsourcing",
+  "version": "0.0.1",
   "description": "CRUD in MongoDB, Express, React/Hooks, Node",
   "main": "index.js",
   "scripts": {
